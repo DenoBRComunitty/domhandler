@@ -5,7 +5,7 @@ import {
     DataNode,
     NodeWithChildren,
     ProcessingInstruction,
-} from "./node";
+} from "./node.ts";
 
 export { Node, NodeWithChildren, DataNode, Element };
 
