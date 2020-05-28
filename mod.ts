@@ -1,4 +1,4 @@
-import { ElementType } from "domelementtype";
+import { ElementType } from "https://raw.githubusercontent.com/DenoBRComunitty/domelementtype/master/mod.ts";
 import {
     Node,
     Element,
